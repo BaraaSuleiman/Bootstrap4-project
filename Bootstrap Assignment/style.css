@@ -1,0 +1,20 @@
+.navbar-nav{
+	margin-left: 500px;
+	margin-bottom: 10px;
+}
+.hero-unit{
+	background-image: url("img/car1.jpg");
+	height: 700px;
+	background-size: cover;
+}
+.carousel-caption h3:first-child {
+  animation-delay: 1s;
+}
+
+.carousel-caption h3:nth-child(2) {
+  animation-delay: 2s;
+}
+
+.carousel-caption button {
+  animation-delay: 3s;
+}
